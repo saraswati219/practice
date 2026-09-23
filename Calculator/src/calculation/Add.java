@@ -27,7 +27,7 @@ public class Add {
 		System.out.println("Subtraction :"+a.subtraction(45, 90));
 		System.out.println("Multiplication :"+a.multiplication(54, 4));
 		System.out.println("Division :"+a.division(54, 9));
-		System.out.println("Division :"+a.mod(54, 9));
+		System.out.println("Modulus :"+a.mod(54, 8));
 	}
 
 }
